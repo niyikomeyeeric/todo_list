@@ -1,3 +1,4 @@
-# todo_list
-ALX WEBSTACK PORTFOLIO PROJECT
-This project is about creating a todo list app with uaser authentication
+# Django-To-Do_List-with user_authentication
+
+To DO list app with user registration, Login , Search and full create Read, Update, and Delete functionality 
+
